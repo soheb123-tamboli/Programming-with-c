@@ -3,7 +3,7 @@
 /*2) Multi-line comments*/
 
 /*
-  Author:Soheb;
+  Author:Soheb
   Topic :Comments
 */
 #include<stdio.h>
